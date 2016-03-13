@@ -6,3 +6,4 @@ Handles live data emission and JSON...
 - [ ] JSON
 - [ ] Sockets
 - [ ] GPIO Sensor integration
+- [ ] Code touchups and cleanups
