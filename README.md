@@ -1,5 +1,5 @@
 # device-server
-Device server written in Python.
+  Device server written in Node.
 Handles live data emission and JSON...
 
 ## todo
