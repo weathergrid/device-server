@@ -1,6 +1,7 @@
 # device-server
   Device server written in Node.
 Handles live data emission and JSON...
+Everything in this repository is proof of concept. 
 
 ## setup
 To set up the server, either:
@@ -19,3 +20,4 @@ to create your config.json.
 - [ ] Sockets
 - [ ] GPIO Sensor integration
 - [ ] Code touchups and cleanups
+- [ ] Unit testing, modularity
