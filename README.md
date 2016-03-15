@@ -16,8 +16,8 @@ If utilizing the second method, simply run
 to create your config.json.
 
 ## todo
-- [x] JSON
-- [ ] Sockets
+- [x] **JSON**
+- [ ] **Sockets**
 - [ ] GPIO Sensor integration
 - [ ] Code touchups and cleanups
-- [ ] Unit testing, modularity
+- [ ] **Unit testing, modularity**
