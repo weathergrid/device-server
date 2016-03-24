@@ -1,8 +1,8 @@
 /*
-	Device server for the OWG initiative.
-	Written in NodeJS + Express + Sockets.io.
+Device server for the OWG initiative.
+Written in NodeJS + Express + Sockets.io.
 
-	@author Sergio Diaz
+@author Sergio Diaz
 */
 
 
