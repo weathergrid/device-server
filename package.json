@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/weathergrid/device-server/issues"
   },
-  "homepage": "https://github.com/weathergrid/device-server#readme"
+  "homepage": "https://github.com/weathergrid/device-server#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
